@@ -1,9 +1,12 @@
 # physic_simulation
 
-A new Flutter project.
+## Kien thuc can nam
 
-## Getting Started
-
+- SpingSimulation
+- GestureDetector
+    - onPanDown: DragDownDetails
+    - onPanUpdate: DragUpdateDetails
+    - onPanEnd: DragEndDetails
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
